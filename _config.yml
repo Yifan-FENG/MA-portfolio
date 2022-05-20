@@ -1,1 +1,4 @@
-theme: jekyll-theme-hacker
+remote_theme: pages-themes/hacker@v0.2.0
+
+title: [YIFAN-FENG]
+description: [This is the final presentation of YIFAN's work at University of the Arts London, Creative Computing Institute.]

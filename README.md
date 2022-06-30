@@ -1,5 +1,10 @@
 ### About me 
-##### I am currently studying MA/MSc Computing and Creative Industry (modular) at the University of the Arts London. My work explores 
+###### 
+I am currently 
+
+
+
+
 
 # My Project overview at Creative Computing Institute 
 
@@ -10,7 +15,15 @@
 
 
 
-### My Education Journey ~  
+
+
+
+
+
+
+
+
+# My Education Journey ~  
 ##### 
 2021.09 - 2022.12 MA, Computing and Creative Industry (modular)
 ######

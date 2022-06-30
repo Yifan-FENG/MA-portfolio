@@ -18,7 +18,13 @@
 
 
 
-# Education 
-###### 2021-Present MA, Computing and Creative Industry (modular)
-###### 2017-2020 BA, Media and Information: major in Information Culures, minor in Digital Humanities and Social Analytics 
-###### 2015-2017 Foundation Diploma, Social Studies with English
+### My Education Journey ~  
+###### 
+2021.09 - 2022.12 MA, Computing and Creative Industry (modular)
+UAL Creative Computing Institute
+###### 
+2017.09 - 2020.06 BA, Media and Information: major in Information Culures, minor in Digital Humanities and Social Analytics 
+University of Amsterdam & VU Amsterdam
+###### 
+2015-2017 Foundation Year, Social Studies with English
+SISU-Lancaster University
